@@ -1,0 +1,11 @@
+# stack
+push 1 1 2
+pop 1 8 15
+push 2 6 7
+pop 2 10 20
+push 3 5 9
+pop 3 12 19
+push 4 4 11
+pop 4 14 18
+push 5 3 13
+pop 5 16 17

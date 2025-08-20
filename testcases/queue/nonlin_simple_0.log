@@ -1,0 +1,5 @@
+# queue
+enq 2 0 1
+enq 1 1 2
+deq 1 2 3
+deq 2 3 4
