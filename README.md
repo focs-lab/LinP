@@ -2,8 +2,6 @@
 
 The fastest and most lightweight linearizability tester you will ever find.
 
-See [paper on arXiv](https://doi.org/10.48550/arXiv.2410.04581) for detailed description and proof of correctness of the underlying algorithms.
-
 ## Histories
 
 Histories are text files that provide a **data type** as header and **operations** on a single object of the stated data type in the following rows. Yes, we assume all operations to be completed by the end of the history.
